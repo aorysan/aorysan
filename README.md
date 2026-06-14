@@ -10,8 +10,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aorysan&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Top Languages" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aorysan&theme=radical&no-bg=true" alt="GitHub Trophies"/>
-</p>
 
 ## Berikut Link Menuju [Portofolio](https://aorysan.github.io/portofolio-aorysan/).
